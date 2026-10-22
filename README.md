@@ -27,7 +27,6 @@ We are planning on using it in the next stage in our research on EHD propulsion.
 ## PCB
 
 Made in KiCad. The full schematic is in [assets/schematic.pdf](assets/schematic.pdf).
-<img width="782" height="452" alt="Screenshot 2026-10-21 203645" src="https://github.com/user-attachments/assets/23127cbb-8515-471e-9e32-b1f2e7a3073e" />
 
 <img width="866" height="602" alt="Screenshot 2026-10-21 203616" src="https://github.com/user-attachments/assets/28ecec9f-ed07-48dc-9db1-7365925b714d" />
 
