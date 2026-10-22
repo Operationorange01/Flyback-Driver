@@ -2,6 +2,9 @@
 
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?github=https://github.com/varvarakarenski/Flyback-Driver/tree/main/pcb)
 
+<img width="782" height="452" alt="Screenshot 2026-10-21 203645" src="https://github.com/user-attachments/assets/523380ef-5acc-4e6f-b531-8757cd4bed43" />
+
+
 This is a driver for a High Voltage Flyback Transformer.
 
 We are planning on using it in the next stage in our research on EHD propulsion. You can read our preprint from last year here: https://doi.org/10.31224/6625
@@ -24,6 +27,10 @@ We are planning on using it in the next stage in our research on EHD propulsion.
 ## PCB
 
 Made in KiCad. The full schematic is in [assets/schematic.pdf](assets/schematic.pdf).
+<img width="782" height="452" alt="Screenshot 2026-10-21 203645" src="https://github.com/user-attachments/assets/23127cbb-8515-471e-9e32-b1f2e7a3073e" />
+
+<img width="866" height="602" alt="Screenshot 2026-10-21 203616" src="https://github.com/user-attachments/assets/28ecec9f-ed07-48dc-9db1-7365925b714d" />
+
 
 Main parts:
 
