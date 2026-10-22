@@ -37,7 +37,8 @@ Custom footprints are in [pcb/libraries](pcb/libraries).
 
 ## Firmware
 
-No firmware yet but coming soon
+made some basic firmware but is still untested
+**disclaimer, most of the firmware was made using the help of ai because I don't know enough c**
 
 ## BOM
 
