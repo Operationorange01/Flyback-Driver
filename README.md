@@ -3,6 +3,7 @@
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?github=https://github.com/varvarakarenski/Flyback-Driver/tree/main/pcb)
 
 This is a driver for a High Voltage Flyback Transformer.
+
 We are planning on using it in the next stage in our research on EHD propulsion. You can read our preprint from last year here: https://doi.org/10.31224/6625
 
 ## Features:
@@ -38,6 +39,7 @@ Custom footprints are in [pcb/libraries](pcb/libraries).
 ## Firmware
 
 made some basic firmware but is still untested
+
 **disclaimer, most of the firmware was made using the help of ai because I don't know enough c**
 
 ## BOM
